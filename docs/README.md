@@ -12,9 +12,9 @@
         1. Identify who is doing the work.
             1. Have them provide a copy of their license and insurance
         1. Provide a simple illustration of where the work is being done.
-            1. Examples: A plot wheere it goes sin the yard (Screening, walkways)
+            1. Examples: A plot where it goes sin the yard (Screening, walkways)
         1. Provide colors
-        1. Pictures are very helpful  
+        1. Pictures are very helpful
     1. Examples of successful applications:
         1. [X]
         1. [Y]
@@ -30,7 +30,7 @@
 1. The ARC has 1 month after the completion of the application to review the application and return an approval or denial.
     1. If the [Property Management firm], ARC, or HOA board finds that there is missing information,  the requests is sent back to the requester and the "clock" is reset.
 1. ARC meeting notices will be posted 3-5 days before the meeting at the entrance of the community.
-1. Usually the ARC meetings will be done via tele-conference (i.e. Zoom).
+1. Usually the ARC meetings will be done via teleconference (i.e. Zoom).
 1. You will receive the results via email from the [Property Management firm] (<xxxx@yyyyy.com>)
 
 ## Current ARC members
