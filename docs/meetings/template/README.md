@@ -2,7 +2,8 @@
 
 ## Call to order
 
-1. Day-of-week, Month DD, YYYY, HH:MMp EST
+1. **Date/Time:** Day-of-week, Month DD, YYYY, HH:MMp EST
+1. **Location:** Zoom
 
 ## Attendance
 
@@ -20,7 +21,11 @@
 
 ## New Business
 
-1. ...
+1. Request from 00000 Whispering Willow to ....
+    1. **Discussion:**
+        1. ...
+    1. **Status:**
+        1. Reviewed and unanimously approved by ARC.
 
 ## Announcements
 
@@ -28,4 +33,4 @@
 
 ## Adjournment
 
-1. HH:MMp EST
+1. Meeting adjourned at HH:MMp EST
