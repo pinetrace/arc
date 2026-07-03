@@ -4,6 +4,8 @@
 1. [ARC request for Painting]
 1. [ARC request for a Roof]
 
+Email completed forms to `resident@akam.com`.
+
 [ARC general request]: PineTraceAtBinksForest-ARC-General-Application.pdf
 [ARC request for Painting]: PineTraceAtBinksForest-ARC-Paint-Application.pdf
 [ARC request for a Roof]: PineTraceAtBinksForest-ARC-Roof-Application.pdf
