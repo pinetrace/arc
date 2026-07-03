@@ -44,8 +44,8 @@
 1. [lots]
 
 [lots]: lots/
-[x]: https/pinetrace.org
-[y]: https/pinetrace.org
-[z]: https/pinetrace.org
+[x]: ../
+[y]: ../
+[z]: ../
 [Property Management firm]: https://akam.com
 [ARC Summary of Procedure and Design Requirements for Pine Trace HOA]: documents/ARC-Summary-of-Procedure-and-Design-Requirements-for-Pine-Trace-HOA.pdf
