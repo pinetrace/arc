@@ -5,7 +5,7 @@
 Next meeting of the Architectural Review Committee:
 
 - **Date:** Tuesday, November 10, 2026
-- **Time:** 6:30pm EDT
+- **Time:** 6:30pm EST
 - **Location:** Zoom Teleconference at <https://us04web.zoom.us/j/9058120670?pwd=HfB3419xbYXyySQaddpMoww3esh8UJ.1&omn=77195320800>
 - **Agenda:**
   1. Call to order
